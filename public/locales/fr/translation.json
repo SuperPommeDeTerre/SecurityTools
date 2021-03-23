@@ -1,0 +1,22 @@
+{
+    "page": {
+        "meta": {
+            "title": "Maison d'hôte à Josselin",
+            "description": "Description de la page"
+        }
+    },
+    "menu": {
+        "sitebanner": "Maison d'hôte à Josselin",
+        "home": "Accueil",
+        "rooms": "Les chambres",
+        "house": "La maison",
+        "contact": "Nous contacter",
+        "availability": "Disponibilités",
+        "prices": "Tarifs"
+    },
+    "cookieconsent": {
+        "ok": "Accepter",
+        "no": "Refuser",
+        "text": "Ce site utilise des cookies pour vous offrir une expérience utilisateur de qualité, mesurer l'audience et optimiser les fonctionnalités des réseaux sociaux. En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de cookies dans les conditions prévues par notre politique de confidentialité."
+    }
+}
